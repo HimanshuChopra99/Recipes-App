@@ -14,7 +14,7 @@ The **Recipe App** allows users to explore random meals and manage their favorit
 - **Data**: Meal data is fetched asynchronously from an external API.
 
 ## Demo
-Click [here](https://himanshuchopra99.github.io/Recipes-App/) to get the demo of this Expense Tracker App
+Click [here](https://himanshuchopra99.github.io/Recipes-App/) to get the demo of this Recipe App.
 
 ## What I Learned
 
